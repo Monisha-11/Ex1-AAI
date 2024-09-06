@@ -37,7 +37,7 @@ Generate the graph using networkx<br/>
 Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-```
+```python
 python
 import pandas as pd # for data manipulation
 import networkx as nx # for drawing graphs
